@@ -4,8 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4d7c99ef-3961-4d4f-b88e-ba9eaa82656b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>
-    </StartupFile>
+    <StartupFile>mainPackage\main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
